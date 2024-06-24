@@ -1,7 +1,29 @@
-## Hi there 👋
+# Hi, I'm Toran! 👋
+
+I am a passionate B.Tech CSE student at Dev Bhoomi Uttarakhand University, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=rust,py,linux,aws,gcp)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Machine Learning in Rust
+  - Exploring the ins and outs of Neural Networks
+  - Training my mind with various ML algorithms
+  - Diving in various available libraries like linfa
+
+## 📬 Get in Touch
+
+- Connect with me on [Email](toranjain07@gmail.com)
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
-**Eyepatch-13/Eyepatch-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
