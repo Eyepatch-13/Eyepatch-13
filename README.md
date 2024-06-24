@@ -16,7 +16,7 @@ I am a passionate B.Tech CSE student at Dev Bhoomi Uttarakhand University, drive
 
 ## 📬 Get in Touch
 
-- Connect with me on [Email](toranjain07@gmail.com)
+- Connect with me @ toranjain07@gmail.com
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
